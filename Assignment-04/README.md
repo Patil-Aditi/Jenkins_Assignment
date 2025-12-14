@@ -216,5 +216,5 @@ Use Jenkins plugins like:
 
 ✍️ Author
 
-👩‍💻 Neha Kumari
+👩‍💻 Aditi Patil
 🚀 DevOps | Jenkins | AWS | CI/CD Enthusiast

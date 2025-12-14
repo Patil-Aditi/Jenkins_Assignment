@@ -139,7 +139,7 @@ DevOps see their jobs + read-only Dev + Test jobs.
 
 ![alt text](./images/image-14.png)
 
-Admin (neha) has full access.
+Admin (Aditi) has full access.
 
 ![alt text](./images/image-15.png)
 
@@ -147,4 +147,4 @@ Jenkins supports Google SSO login + local login fallback.
 
 👩‍💻 Author
 
-Neha ✨
+Aditi ✨

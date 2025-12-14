@@ -54,8 +54,6 @@ This assignment demonstrates **Jenkins Freestyle Job Automation** for two parts:
    
 4.Setup Slack + Email notifications in Post-build actions.
 
-![alt text](./images/image-3.png)
-
 ![alt text](./images/image-4.png)
 
 🎯 Part B – File Creation & Publishing
@@ -108,7 +106,7 @@ Achieved full CI/CD pipeline using only Freestyle Jobs (no pipeline code).
 
 ✍️ Author
 
-Neha Kumari
+Aditi Patil
 DevOps Ninja 💻⚡
 
 

@@ -189,7 +189,7 @@ emailext(
 
 👨‍💻 Author
 
-🧑‍💻 Neha
+🧑‍💻 Aditi
 DevOps Engineer | Jenkins | AWS | Kubernetes | CI/CD Automation | Linux | git | Maven | Ansible
-📧 neharani150901@gmail.com
+📧 aditipatil20255@gmail.com
 
